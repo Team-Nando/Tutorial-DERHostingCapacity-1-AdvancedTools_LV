@@ -34,8 +34,8 @@ Enjoy!
 
 ## Credits
 
-Angela Simonovska (asimonovska@student.unimelb.edu.au)
-Eshan Karunarathne (akarunarathn@student.unimelb.edu.au)
+Angela Simonovska (asimonovska@student.unimelb.edu.au)  
+Eshan Karunarathne (akarunarathn@student.unimelb.edu.au)  
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ## Acknowledgement
