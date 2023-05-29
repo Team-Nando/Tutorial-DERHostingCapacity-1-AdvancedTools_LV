@@ -11,7 +11,7 @@ This Tutorial is designed for power engineering students (undergraduate and post
 The objectives of this tutorial are:
 1. To familiarise with the process by which power engineers can run a **power flow** for a given three-phase unbalanced **low voltage (LV) distribution network**. To achieve this, you will learn the basics of how to model an LV distribution network and investigate certain aspects such as voltage regulation and energy losses.
 
-2. To continue familiarising with advanced tools. You will be using the programming language Python and the advanced distribution network analysis tool OpenDSS via the dss_python module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
+2. To continue familiarising with **advanced tools** useful to run distribution network studies involving DERs. You will continue using [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
 ### Pre-Requisites for Part 1
 - You should have completed [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python) and, of course, be familiar with [OpenDSS and the modelling of distribution networks and DERs](https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material).
