@@ -15,17 +15,17 @@ The objectives of this tutorial are:
 
 ### Pre-Requisites for Part 1
 - You should have completed [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python) and, of course, be familiar with [OpenDSS and the modelling of distribution networks and DERs](https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material).
-- For this part you just need Python (Anaconda) and the dss_python module. OpenDSS was only needed in Part 0 for demonstration purposes.
+- For this part, you just need Python (Anaconda) and the dss_python module. OpenDSS was only needed in Part 0 for demonstration purposes.
 
 ## Run Part 1
 Make sure you have installed Anaconda, the dss_python module, etc. as specified in [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python). Otherwise, you will not be able to go through the tutorial. To guarantee that you have all the necessary packages you can also run the  **`requirements.txt`** file using  **`pip install -r requirements.txt`** on the Anaconda prompt.
 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
-   - Unzip the file an place the folder somewhere in your computer/laptop.
-3. To open the Jupyter notebook file (extension **`ipynb`**) you need to:
+   - Unzip the file and place the folder somewhere on your computer/laptop.
+3. To open the Jupyter Notebook file (extension **`ipynb`**) you need to:
    - Open Anaconda Navigator
-   - Click on Launch Jupyter notebook (it will open in your browser)
+   - Click on Launch Jupyter Notebook (it will open in your browser)
    - Upload the unzipped folder (with all the corresponding files) to Jupyter Notebook (the location is up to you)
    - Go inside the folder and open the **`ipynb`** file
 
