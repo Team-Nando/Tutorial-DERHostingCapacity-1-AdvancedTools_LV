@@ -14,11 +14,13 @@ The objectives of this tutorial are:
 2. To continue familiarising with **advanced tools** useful to run distribution network studies involving DERs. You will continue using [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
 ### Pre-Requisites for Part 1
-- You should have completed [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python) and, of course, be familiar with [OpenDSS and the modelling of distribution networks and DERs](https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material).
-- For this part, you just need Python (Anaconda) and the dss_python module. OpenDSS was only needed in Part 0 for demonstration purposes.
+- You should have completed [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python) and, of course, be familiar with [OpenDSS for Beginners and the modelling of distribution networks and DERs](https://sites.google.com/view/luisfochoa/research-tools).
 
-## Run Part 1
-Make sure you have installed Anaconda, the dss_python module, etc. as specified in [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python). Otherwise, you will not be able to go through the tutorial. To guarantee that you have all the necessary packages you can also run the  **`requirements.txt`** file using  **`pip install -r requirements.txt`** on the Anaconda prompt.
+## Run Part 1 (Option with Google Colab)
+- Just click on the badge <a target="_blank" href="https://colab.research.google.com/github/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV/blob/main/Tutorial-DERHC-1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>. You don't need to install anything 😉💪.
+
+## Run Part 1 (Option with Jupyter Notebook)
+Make sure you have installed Anaconda and the dss_python module as specified in [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python). Otherwise, you will not be able to go through the tutorial. To guarantee that you have all the necessary packages you can also run the  **`requirements.txt`** file using  **`pip install -r requirements.txt`** on the Anaconda prompt.
 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
@@ -38,6 +40,7 @@ Enjoy! 🤓
 Angela Simonovska (asimonovska@student.unimelb.edu.au)  
 Eshan Karunarathne (akarunarathn@student.unimelb.edu.au)  
 Fahmi Angkasa (angkasaf@student.unimelb.edu.au)  
+Andres Avila Rojas (aavilarojas@student.unimelb.edu.au)  
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ## Acknowledgement
