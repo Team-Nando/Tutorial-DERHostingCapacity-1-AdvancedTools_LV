@@ -17,7 +17,7 @@ The objectives of this tutorial are:
 - You should have completed [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python) and, of course, be familiar with [OpenDSS for Beginners and the modelling of distribution networks and DERs](https://sites.google.com/view/luisfochoa/research-tools).
 
 ## Run Part 1 (Option with Google Colab)
-- Just click on the badge <a target="_blank" href="https://colab.research.google.com/github/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV/blob/main/Tutorial-DERHC-1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>. You don't need to install anything 😉💪.
+- Just click on the badge <a target="_blank" href="https://colab.research.google.com/github/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV/blob/main/Tutorial-DERHC-1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>. You don't need to install anything 🤓💪.
 
 ## Run Part 1 (Option with Jupyter Notebook)
 Make sure you have installed Anaconda and the dss_python module as specified in [Part 0](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python). Otherwise, you will not be able to go through the tutorial. To guarantee that you have all the necessary packages you can also run the  **`requirements.txt`** file using  **`pip install -r requirements.txt`** on the Anaconda prompt.
