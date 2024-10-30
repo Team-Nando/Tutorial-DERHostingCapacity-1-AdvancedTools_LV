@@ -27,7 +27,7 @@ Make sure you have installed Anaconda and the dss_python module as specified in 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
    - Unzip the file and place the folder somewhere on your computer/laptop.
-3. To open the Jupyter Notebook file (extension **`ipynb`**) you need to:
+2. To open the Jupyter Notebook file (extension **`ipynb`**) you need to:
    - Open Anaconda Navigator
    - Click on Launch Jupyter Notebook (it will open in your browser)
    - Upload the unzipped folder (with all the corresponding files) to Jupyter Notebook (the location is up to you)
